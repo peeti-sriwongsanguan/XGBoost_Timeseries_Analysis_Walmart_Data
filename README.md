@@ -1,5 +1,5 @@
 # time_series_walmart
-The project will use ML/DL to forecast sales and demand based on sample data from Walmart stores while taking into account economic conditions like the Consumer Price Index (CPI), unemployment rate (Unemployment Index, etc).
+The project will use ML/DL to forecast sales and demand based on sample data from Walmart stores while taking into account economic conditions like the Consumer Price Index (CPI), unemployment rate (Unemployment Index, etc). In this project, I want to try a new package called **Optuna**. Optuna is an open-source hyperparameter optimization framework developed by Preferred Networks, Inc. It provides a flexible and efficient platform for optimizing machine learning model hyperparameters, allowing users to find the best set of hyperparameters for their models automatically.
 
 ## Environment
 
