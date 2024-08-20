@@ -3,3 +3,5 @@ seaborn>=0.11.0,<0.13.0
 xgboost==2.1.1
 lightgbm==4.5.0
 catboost==1.2.5
+statsmodels==0.14.2
+optuna==3.6.1
